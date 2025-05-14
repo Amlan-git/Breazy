@@ -2,7 +2,7 @@
 
 import { useTheme } from 'next-themes';
 import { Moon, Sun, Wind } from 'lucide-react';
-import { Button } from '@/components/ui/Button';
+import { Button } from '@/components/ui/button';
 import { useEffect, useState } from 'react';
 
 export default function Header() {
