@@ -1,5 +1,7 @@
 # Breazy
 
+LIVE : https://breazy.vercel.app/
+
 Breazy is a no‑login, single‑page web app that guides users through breathwork exercises using a dynamic **climbing visual**. A simple ball travels up, across, and down a path to represent **Inhale → Hold → Exhale**, synchronized to customizable durations.
 
 ## 🚀 Features
